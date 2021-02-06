@@ -1,1 +1,1 @@
-worker: python Aurora.py
+worker: python aurora.py
