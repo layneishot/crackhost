@@ -1,0 +1,10 @@
+discord
+asyncio
+base64
+socket
+sys
+os
+mmap
+random
+requests
+time
